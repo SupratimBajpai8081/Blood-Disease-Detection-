@@ -1,0 +1,2 @@
+Blood Report Disease Diagnosis with Machine Learning
+This project is a Flask web application that uses a machine learning model to predict various blood disorders based on user-provided blood test results. The application uses a Random Forest Classifier to analyze blood parameters such as WBC count, RBC count, Hemoglobin levels, and more to predict potential blood disorders like Anemia, Leukocytosis, Thrombocytopenia, and others.
